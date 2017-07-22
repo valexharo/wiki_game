@@ -12,4 +12,4 @@ End: "https://en.wikipedia.org/wiki/Medieval"
 
 And analyze maximum 500 links, use the function as follows: 
 
-WikiGame (start, end, 500).
+wikiGame (start, end, 500).
